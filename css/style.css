@@ -1,0 +1,1328 @@
+.abc{
+    display:flex;
+    flex-direction: row;
+    height:46px;
+    width:1300px;
+}
+.nametext{
+    height:100%;
+    color:#74c53e;
+    width:150px;
+    font-size: 25px;
+    padding-top: 15px;
+    margin-left: 39px;
+    
+}
+.DASHBOARD {
+    width: 81px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 38px;
+}
+.ACCOUNTS {
+    width: 70px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    color: #4a4a4a;
+    margin-left: 38px;
+    margin-top: 15px;
+}
+.PAYMENTS {
+    width: 71px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: left;
+    color: #ffffff;
+    padding-top: 15px;
+    margin-left: 38px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    border:2 px solid black;
+    
+}
+.TRADE-FINANCE {
+    width: 112px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 38px;
+}               
+.ADMINISTRATION {
+    width: 112px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 38px;
+}           
+.GENERAL-SERVICES-Copy {
+    width: 140px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 38px;
+}
+.FAVOURITES-Copy {
+    width: 78px;
+    height: 18px;
+    font-family: OpenSans;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 15px;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 15px;
+    margin-left: 38px;
+}
+.Rectangle-3 {
+    width: 77px;
+    height: 30px;
+    border-radius: 4px;
+    border: solid 1.2px black;
+    margin-top:9px;
+    margin-left: 38px;
+}       
+.LOG-OUT {
+    width: 54px;
+    height: 16px;
+    font-family: OpenSans;
+    margin-top: 5px;
+    font-weight: bold;
+    margin-left: 11px;
+}
+.section0{
+    background-color: #e7f8db;
+    width: 1300px;
+    height:225px;
+    background-image: url("https://www.w3schools.com/w3images/map.jpg");
+    opacity: 80%;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;             
+    }
+
+
+body{
+    margin:0;
+}
+main{
+    background-color: #e7f8db;
+    width: 1300px;
+    height:133px;
+}
+.Company-Name-main{
+    display:flex; 
+    height:17px;
+}
+.Company-Name {
+    width: 108px;
+    height: 17px;
+    font-family: OpenSans;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--black);
+    margin-left: 247px;
+}
+    .Division-Id {
+      width: 70px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: var(--black);
+      margin-left: 260px;
+    }
+    .Rectangle-11 {
+      width: 350px;
+      height: 30px;
+      border-radius: 3px;
+      border: solid 1px #388800;
+      background-color: #d0ebbe;
+      margin-left: 247px;
+    }
+    .Rectangle-12{
+        width: 350px;
+      height: 30px;
+      border-radius: 3px;
+      border: solid 1px #388800;
+      background-color: #d0ebbe;
+      margin-left: 18px;
+    }
+    .Welcome-Urban-Securi {
+      width: 217px;
+      height: 32px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 12px;
+      line-height: 16px;
+      letter-spacing: normal;
+      text-align: left;
+      color: var(--black);
+      margin-left:60px;
+      
+    }
+    .Rectangle-13 {
+      width: 250px;
+      height: 30px;
+      border-radius: 3px;
+      border: solid 1px black;
+      background-color: #fdfdfd;
+      margin-left: 961px;
+      display:flex;
+    
+    }
+    .MY-PROFILE {
+      width: 70px;
+      height: 5px;
+      font-family: OpenSans;
+      font-size: 11px;
+      text-align: left;
+      margin-left: 12px;
+      margin-top: 11px;
+    }
+    .Contact-Us {
+      width: 75px;
+      height: 15px;
+      font-family: OpenSans;
+      font-size: 11px;
+      font-weight: 600;
+      text-align: left;
+      color: var(--black);
+      margin-left: 12px;
+      margin-top: 11px;
+    }
+    .section1{
+        width: 25.769%;
+        height:1675px;
+        
+        float:left
+        
+    }
+    .section2{
+        width: 72.69%;
+        height:1285px;
+        
+        
+
+    }
+    .leftsection{
+        width:295px;
+        height:1170px;
+        background-color: #ffffff; ;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+        margin-left: 20px;
+        display:flexbox;
+    }
+    .paymentbox{
+        height:55px;
+        width:295px;
+        background-color: #ffffff;
+        
+    }
+    .Paymentstext {
+      width: 77px;
+      height: 16px;
+      font-family: OpenSans;
+      font-size: 16px;
+      
+      line-height: 16px;
+      text-align: left;
+      color: #373d3f;
+      margin-left: 27px;
+      padding-top: 20px;
+      
+    }
+    .makepayment{
+        height:50px;
+        width:295px;
+        background-color: #daf7c5;
+        display: flex;
+    }
+    .makepaymenttext{
+      width: 97px;
+      height: 14px;
+      font-family: OpenSans;
+      font-size: 14px;
+      line-height: 14px;
+      color: #4a4a4a;
+      padding-left: 27px;
+      padding-top: 18px;
+    }
+    .Rectangle-18{
+        margin-top: 23px;
+        margin-left: 132px;
+    }
+    .Once-Off---Outside-C {
+      width: 246px;
+      height: 13px;
+      font-family: OpenSans;
+      font-size: 13px;
+      font-weight: 200;
+      line-height: 13px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left:27px;
+      margin-top: 10px;
+      opacity: 90%;
+    }
+    .Once-Off---Within-Ca {
+      width: 246px;
+      height: 13px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #4a4a4a;
+      opacity: 90%;
+      margin-top: 22px;
+      margin-left:27px;
+    }
+    .Beneficiary-Payment {
+      width: 246px;
+      height: 36px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 18px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 27px;
+      margin-top: 22px;
+      opacity: 90%;
+    }
+    .distance{
+        margin-top: 22px;
+    }
+    .View-Payment-Details-Copy {
+      width: 141px;
+      height: 14px;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 14px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 27px;
+      margin-top: 18px;
+    }
+    .Rectangle-19{
+        margin-top: 23px;
+        margin-left: 88px;
+    }
+    .Rectangle-6-Copy-4 {
+      width: 295px;
+      height: 35px;
+      background-color: black;
+      margin-top: 11px;
+      display:flex;
+    }
+    .View-Approval-Queue {
+      width: 246px;
+      height: 13px;
+      font-family: OpenSans;
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 13px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 11px;
+      margin-left: 27px;
+    }
+    .View-Scheduled-Trans {
+      width: 246px;
+      height: 13px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top: 11px;
+      margin-left: 27px;
+      opacity:90%;
+    }
+    .Rectangle-20{
+        margin-top: 23px;
+        margin-left: 17px;
+    }
+    .E-Payments-and-Colle {
+        width: 212px;
+      height: 14px;
+      font-family: OpenSans;
+      font-size: 14px;
+    
+      line-height: 14px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 27px;
+      margin-top: 18px;
+
+    }
+    .Upload-a-File {
+      width: 246px;
+      height: 13px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 27px;
+      margin-top: 14px;
+      opacity: 90%;
+    }
+    .Rectangle-bottom {
+      width: 295px;
+      height: 486px;
+      border-radius: 3px;
+      box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
+      margin-top: 22px;
+      margin-left: 21px;
+      display: flexbox;
+    }
+    .Quick-Links {
+      width: 89px;
+      height: 22px;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      color: #373d3f;
+      padding-top: 22px;
+      margin-left: 27px;
+      
+    }
+    .Full-Statement {
+      width: 91px;
+      height: 14px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 14px;
+      text-align: left;
+      color: #388800;
+      margin-left: 27px;
+      display: flex;
+    }
+    .Full-Statement1 {
+      width: 295px;
+      height: 14px;
+      margin-top: 14px;
+      display: flex;
+    }
+    .Line-2 {
+      width: 247px;
+      height: 3px;
+      border: solid 1px #ebebeb;
+      margin-left: 23px;
+      margin-top: 23px;
+    }
+    .Line-22 {
+      width: 247px;
+      height: 3px;
+      border: solid 1px #ebebeb;
+      margin-left: 23px;
+      margin-top: 14px;
+    }
+    .Payroll {
+      width: 133px;
+      height: 14px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 14px;
+      text-align: left;
+      color: #388800;
+      margin-left: 27px;
+    }
+    .Recharge-Copy {
+      width: 108px;
+      height: 14px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 14px;
+      text-align: left;
+      color: #388800;
+      margin-left: 27px;
+    }
+    .arrowimage{
+      height: 100%;
+      margin-left: 141px;
+      }
+      .arrowimagepayroll{
+      height: 100%;
+      margin-left: 100.5px;
+      }
+      .arrowimagepayroll2{
+      height: 100%;
+      margin-left: 126.5px;
+      }
+      .My-Current-Savings-Accounts-Copy-2 {
+      width: 925px;
+      height: 50px;
+      border-radius: 3px;
+      background-color: #ffffff;
+      display: flex;
+    }
+    .PAYMENTSbottom{
+      width: 69px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: bold;
+      text-align: left;
+      color: #373d3f;
+      margin-top: 17px;
+      margin-left: 24px;
+    }
+    .View-Payment-Details {
+      width: 121px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top: 17px;
+      margin-left: 4px;
+    }
+    .slash{
+      width: 5px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top:17px ;
+      margin-left:10px;
+    }
+    .Approval-Queue {
+      width: 91px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top:17px ;
+      margin-left:10px;
+    }
+    .Copy-Transaction {
+      width: 101px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top:17px ;
+      margin-left:10px;
+
+    }
+    .Rectangle-8 {
+      width: 25px;
+      height: 25px;
+      object-fit: contain;
+      margin-top: 15px;
+      margin-left: 415px;
+    }
+    .Transaction_container{
+        width:925px;
+        height:129px;
+        background-color: #f0ffe3;
+        display:flexbox;
+        
+
+    }
+    .Copy-Transaction-bottom {
+      width: 168px;
+      height: 24px;
+      font-family: OpenSans;
+      font-size: 20px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      padding-top: 22px;
+      margin-left: 25px;
+    }
+    .Initiate-Form-Templa-container{
+        width:100%;
+        height:30px;
+        display: flex;
+    }
+    .Rectangle-111 {
+      width: 30px;
+      height: 30px;
+      border-radius: 3px;
+      background-color: #74c53e;
+      margin-left: 397px;
+      text-align: center;
+    }
+    .Rectangle-112 {
+      width: 69px;
+      height: 3px;
+      background-color: #74c53e;
+      margin-top: 13px;
+      margin-left: 2px;
+    }
+    .Rectangle-113 {
+      width: 30px;
+      height: 30px;
+      border-radius: 3px;
+      background-color:black;
+      margin-left: 2px;
+    }
+    .text-1{
+        width: 7.7px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: bold;
+      line-height: 18px;
+      text-align: center;
+      color: #ffffff;
+      margin-left: 11px;
+      margin-top: 5.6px;
+    }
+    .Initiate-Form-Templa {
+      width: 152px;
+      height: 19px;
+      font-family: OpenSans;
+      font-size: 14px;
+      text-align: right;
+      color: #388800;
+      margin-left: 221px;
+      margin-top: 12px;
+    }
+    .Confirmation-container{
+        width: 925px;
+        height:18px;
+        margin-top: 12px;
+        display: flex;
+        }
+        .Enter-Details {
+      width: 81px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: Roboto;
+      font-size: 14px;
+      line-height: 18px;
+      letter-spacing: normal;
+      color: #4a4a4a;
+      margin-left: 367px;
+    }
+    .Confirmation {
+      width: 82px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      text-align: center;
+      color: #4a4a4a;
+      margin-left: 29px;
+      
+    }
+    .Indicates-Mandatory {
+      width: 154px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: right;
+      color: #4a4a4a;
+      margin-left: 189px;
+    }
+    .Rectangle-115 {
+      width: 923px;
+      height: 700px;
+      box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+      border: solid 2px #93d269;
+      background-color: #f7fff0;
+      display:flexbox;
+    }
+    .Transaction-Details {
+      width: 149px;
+      height: 22px;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top: 25px;
+      margin-left: 54px;
+    }
+    .Transaction-Type-container{
+        width:100%;
+        height:40px;
+        margin-top: 19px;
+        display: flex;
+    }
+    .Transaction-Type {
+      width: 150px;
+      height: 15px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 15px;
+      text-align: left;
+      color: #747474;
+      margin-left: 54px;
+    }
+    .-copy-7 {
+      width: 4px;
+      height: 15px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 15px;
+      line-height: 15px;
+      text-align: left;
+      color: #747474;
+      margin-left: 15px;
+
+    }
+    .Once-off---Outside-Cap {
+      width: 122px;
+      height: 40px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Beneficiary-Type {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #747474;
+      margin-left: 95px;
+    }
+    .Initiator-Account-No-container{
+        width:100%;
+        height:16px;
+        display:flex;    
+        margin-top: 20px;
+    }
+    .Initiator-Account-No {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #747474;
+      margin-left:54px;
+      margin-top: 2px;
+    }
+    .Initiator-Account-No-text{
+        width: 104px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Beneficiary-Nickname {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #747474;
+      margin-left: 113px;
+      margin-top: 2px;
+    }
+    .Lesedi-M-Britt {
+      width: 94px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .remarks-container{
+        height: 32px;
+        width:100%;
+        display:flex;
+        margin-top: 41px;
+    }
+    .dash {
+      width: 5px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left:16px;
+    }
+    .Beneficiary-Account {
+      width: 150px;
+      height: 32px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 16px;
+      text-align: left;
+      color: #747474;
+      margin-left: 212px;
+    }
+    .Account-text{
+      width: 104px;
+      height: 20px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left:16px;
+    }
+    .Payment-date-container{
+        height: 32px;
+        width:100%;
+        display:flex;
+        margin-top: 28px;
+    }
+        .-May-2017 {
+      width: 84px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Beneficiary-Bank-Nam {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #747474;
+      margin-left: 133px;
+    }
+    .Stanbic-Bank-Botswan {
+      width: 190px;
+      height: 36px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Network-container{
+        width:100%;
+        height:16px;
+        display:flex;    
+        margin-top: 23px;
+    }
+    .EFT {
+      width: 24px;
+      height: 20px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 20px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Beneficiary-Branch {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 13px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #747474;
+      margin-left: 193px;
+    }
+    .Fairgrounds-1234 {
+      width: 126px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 16px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .BWP-100000-Copy {
+      width: 94px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Beneficiary-Narratio {
+      width: 150px;
+      height: 13px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 13px;
+      text-align: left;
+      color: #747474;
+      margin-left: 123px;
+    }
+    .Stanbic-Bank-sample {
+      width: 141px;
+      height: 16px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 16px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 16px;
+    }
+    .Approver-Details {
+      width: 130px;
+      height: 22px;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 54px;
+      margin-top: 48px;
+    }
+    .Rectangle-26-Copy {
+      width: 848px;
+      height: 154px;
+      border: solid 2px #d4f2bb;
+      background-color: #f0ffe3;
+      margin-top: 10px;
+      margin-left: 36px;
+    }
+    .ruler-id-container{
+        height:17px;
+        width:848px;
+        margin-top:24px;
+        display:flex;
+    }
+    .Ruler-ID {
+      width: 64px;
+      height: 17px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 25px;
+    }
+    .Authority {
+      width: 74px;
+      height: 17px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 41px;
+    }
+    .Follow-Hierarchy {
+      width: 145px;
+      height: 17px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 105px;
+    }
+    .Rectangle-2-Copy-6 {
+      width: 808px;
+      height: 1px;
+      box-shadow: inset 0 2px 0 0 #e8edf1;
+      border: solid 1px #b4e195;
+      margin-top: 11px;
+      margin-left:20px ;
+    }
+    .initiator-container{
+        height:18px;
+        width:848px;
+        margin-top:18px;
+        display:flex;
+    }
+    .text41{
+      width: 84px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 20px;
+    }
+    .-Initiator-1-Appr {
+      width: 140px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 20px;
+    }
+    .Yes {
+      width: 21px;
+      height: 18px;
+      opacity: 0.87;
+      font-family: OpenSans;
+      font-size: 13px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 45px;
+    }
+    .empty-container{
+        width:923px;
+        height: 20px;
+        background-color:#f0ffe3 ;
+    }
+    .Combined-Shape {
+      width: 925px;
+      height: 483px;
+      box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.01);
+      background-color: #ffffff;
+      display: flexbox;
+    }
+    .Additional-Details {
+      width: 137px;
+      height: 22px;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 55px;
+      padding-top: 30px;
+    }
+    .select-user-container{
+        width:100%;
+        height:17px;
+        display:flex;
+        margin-top: 20px;
+    }
+    .Select-User {
+      width: 63px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 53px;
+    }
+    .Remarks {
+      width: 49px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 302px;
+    }
+    .fancruis-Rectangle {
+      width: 250px;
+      height: 35px;
+      border-radius: 3px;
+      border: solid 1px #d9e0e6;
+      background-color: #ffffff;
+      margin-left: 54px;
+    }
+    .Look-Up {
+      width: 62px;
+      height: 19px;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      text-align: left;
+      color: #388800;
+      margin-left: 10px;
+      margin-top: 7px;
+    }
+    .rectangle-container{
+        height:35px;
+        width:100%;
+        display:flex;
+        margin-top: 6px;
+    }
+    .Enter-Rectangle {
+      width: 250px;
+      height: 35px;
+      border-radius: 3px;
+      border: solid 1px #d9e0e6;
+      background-color: #ffffff;
+      margin-left: 43px;
+    }
+    .Francois {
+      width: 219px;
+      height: 10px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 10px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 12px;
+      margin-top: 12px;
+    }
+    .Enter-Remarks {
+      width: 219px;
+      height: 10px;
+      font-family: OpenSans;
+      font-size: 13px;
+      line-height: 10px;
+      text-align: left;
+      color: #9b9b9b;
+      margin-left: 10px;
+      margin-top: 12px;
+    }
+    .Used-for-auditing-p-Copy {
+      width: 219px;
+      height: 10px;
+      font-family: OpenSans;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: left;
+      color: #9b9b9b;
+      margin-left: 418px;
+      margin-top: 5px;
+    }
+    .Confirmation-Details {
+      width: 160px;
+      height: 22px;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      color: #4a4a4a;
+      margin-top: 82px;
+      margin-left: 55px;
+    }
+    .Transaction-Password {
+      width: 123px;
+      height: 17px;
+      font-family: OpenSans;
+      font-size: 12px;
+      text-align: left;
+      color: #4a4a4a;
+      margin-left: 53px;
+      margin-top: 20px;
+    }
+    .password-Rectangle {
+      width: 250px;
+      height: 35px;
+      border-radius: 3px;
+      border: solid 1px #d9e0e6;
+      background-color: #ffffff;
+      margin-left: 54px;
+      margin-top: 6px;
+      display:flex;
+    }
+    .Enter-Password {
+      width: 73px;
+      height: 10px;
+      font-family: OpenSans;
+      font-size: 10px;
+      line-height: 10px;
+      text-align: left;
+      color: #9b9b9b;
+      margin-left: 19px;
+      margin-top: 13px;
+    }
+    .Line-Copy {
+      width: 2px;
+      height: 20px;
+      border: solid 1px #d3d3d3;
+      margin-left: 112px;
+      margin-top: 7px;
+    }
+    .Fill-1 {
+      width: 28px;
+      height: 15px;
+      background-color: var(--black);
+      margin-left: 6px;
+      margin-top: 9px;
+    }
+    .Line-4 {
+      width: 880px;
+      height: 2px;
+      opacity: 0.8;
+      border: solid 1px #c6cfd9;
+      margin-left:23px;
+      margin-top: 69px;
+
+    }
+    .back-container{
+        width:100%;
+        height:35px;
+        margin-top: 20px;
+        display:flex;
+    }
+    .Rectangle-3-Copy-14 {
+      width: 90px;
+      height: 35px;
+      border-radius: 2px;
+      box-shadow: 0 2px 0 0 #c6cfd9;
+      border: solid 1px #c6cfd9;
+      background-color: #ffffff;
+      margin-left: 688px;
+    }
+    .Rectangle-3-Copy-15 {
+      width: 120px;
+      height: 35px;
+      border-radius: 2px;
+      box-shadow: 0 2px 0 0 #388800;
+      background-color: #65bf29;
+      margin-left: 5px;
+    }
+    .Back {
+      width: 45px;
+      height: 14px;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 14px;
+      letter-spacing: 0.54px;
+      color: #4a4a4a;
+      margin-left: 27px;
+      margin-top: 12px;
+    }
+    .Proceed {
+      width: 79.6px;
+      height: 14px;
+      font-family: OpenSans;
+      font-size: 14px;
+      font-weight: bold;
+      line-height: 14px;
+      letter-spacing: 0.54px;
+      text-align: center;
+      color: #ffffff;
+      margin-left: 20.2px;
+      margin-top: 12px;
+    }
+    .Rectangle-9 {
+      width: 1300px;
+      height: 93px;
+      background-color: #ffffff;
+      }
+    .above-footer{
+        background-color: #f1f1f1;
+        height:104px;
+        width:1300px;
+    }
+    .Site-Map-Privacy-P {
+      width: 438px;
+      height: 16px;
+      font-family: Roboto;
+      font-size: 14px;
+      font-weight: 300;
+      text-align: center;
+      color: #4a4a4a;
+      margin-left: 405px;
+      margin-top: 22px;
+      opacity:70%;
+    }
+    .Cut-off-time-EFT---2 {
+      width: 420px;
+      height: 22px;
+      font-family: Roboto;
+      font-size: 11px;
+      line-height: 22px;
+      letter-spacing: 0.35px;
+      text-align: center;
+      color: #9b9b9b;
+      margin-left: 414px;
+      margin-top: 12px;
+    }
